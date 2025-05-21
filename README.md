@@ -108,11 +108,11 @@ except Exception as e:
 
 Server : 
 
-![image](https://github.com/user-attachments/assets/2607c32b-7a12-4e50-9b70-9ded9ac432f7)
+![alt text](<Screenshot 2025-05-20 111006.png>)
 
 Client : 
 
-![image](https://github.com/user-attachments/assets/26e80e80-a155-40ca-914a-3fdc3c430e9e)
+![alt text](<Screenshot 2025-05-20 111013.png>)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
